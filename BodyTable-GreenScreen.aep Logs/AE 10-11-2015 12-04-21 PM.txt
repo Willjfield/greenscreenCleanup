@@ -1,0 +1,27 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “BodyTable-GreenScreen.aep”
+
+Rendering started on 10/11/2015 at 12:04:21 PM
+
+
+  10/11/2015 12:04:21 PM: Starting composition “P1010151”.
+
+
+  Output To: H:\Renders\P1010151 (22-47-57-02).psd
+  
+  10/11/2015 12:04:22 PM: Finished composition “P1010151”.
+
+
+
+  10/11/2015 12:04:23 PM: Starting composition “P1010151”.
+
+
+  Output To: H:\Renders\P1010151.png
+  
+  10/11/2015 12:04:25 PM: Finished composition “P1010151”.
+
+
+
+  Total Time Elapsed: 4 Seconds
+
+Log closed on 10/11/2015 at 12:04:25 PM
+
